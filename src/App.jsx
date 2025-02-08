@@ -45,7 +45,7 @@ function App() {
             <input
               type="text"
               value={password}
-              className="w-full p-3 bg-white outline outline-black rounded-lg m-2"
+              className="w-full p-3 bg-white outline youtline-black rounded-lg m-2"
               placeholder="Passoword"
               readOnly
               ref={passwordRef}
